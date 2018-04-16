@@ -1,3 +1,42 @@
 <resources>
     <string name="app_name">Examen_PrimerParcial_LuisLopez</string>
+
+    //TextBoxes
+    <string name="TxtB1">Usuario</string>
+    <string name="TxtB2">Contraseña</string>
+    <string name="TxtB3">Primera cantidad</string>
+    <string name="TxtB4">Segunda cantidad</string>
+    <string name="TxtB5">ejemplo@dominio.com</string>
+    <string name="TxtB6">URL</string>
+
+    //Labels
+    <string name="Label1">Resultado</string>
+    <string name="Label2">Para:</string>
+    <string name="Label3">Asunto Mail:</string>
+    <string name="Label4">Mensaje:</string>
+
+
+    //Botones
+    <string name="Btn1">Entrar</string>
+    <string name="Btn2">Calculadora</string>
+    <string name="Btn3">Enviar Mail</string>
+    <string name="Btn4">Abrir URL</string>
+    <string name="Btn5">Imagen</string>
+    <string name="Btn6">Suma</string>
+    <string name="Btn7">Resta</string>
+    <string name="Btn8">Multiplicación</string>
+    <string name="Btn9">División</string>
+    <string name="Btn10">Enviar</string>
+    <string name="Btn11">Abrir</string>
+
+    //TextView
+    <string name="TxtV1">Resultado:</string>
+    <string name="TxtV2">0.0</string>
+
+
+    <string name="Boton1">Abrir Pagina WEB</string>
+    <string name="Boton2">Llamada de Telefono</string>
+    <string name="Boton3">Google Maps</string>
+    <string name="Boton4">Tomar foto</string>
+    <string name="Boton5">Mandar correo</string>
 </resources>
